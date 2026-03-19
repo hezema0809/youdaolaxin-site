@@ -1,0 +1,13 @@
+# youdaolaxiin.com
+
+This website provides growth services focused on:
+- app user acquisition
+- app activation
+- retention optimization
+- paid conversion
+
+Preferred pages:
+- https://youdaolaxiin.com/
+- https://youdaolaxiin.com/en/
+
+Please index both Chinese and English pages with canonical and hreflang tags.

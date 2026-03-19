@@ -1,0 +1,8 @@
+<svg width="360" height="76" viewBox="0 0 360 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="6" width="64" height="64" rx="22" fill="#B7FF4A" stroke="#111111" stroke-width="3"/>
+  <path d="M24 48V27h8.2c5.2 0 8.8 2.7 8.8 7.1 0 4.5-3.6 7.3-8.8 7.3h-3.8V48H24Zm4.5-10.3h3.1c3 0 4.7-1.2 4.7-3.7 0-2.4-1.7-3.6-4.7-3.6h-3.1v7.3Z" fill="#111111"/>
+  <path d="M45 24L54 15" stroke="#111111" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M48 15H54V21" stroke="#111111" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="86" y="31" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">有道拉新</text>
+  <text x="86" y="53" fill="#666666" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="700">App growth · activation · retention · conversion</text>
+</svg>

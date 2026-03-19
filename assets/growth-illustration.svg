@@ -1,0 +1,18 @@
+<svg width="760" height="520" viewBox="0 0 760 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="520" rx="28" fill="#F5F5F5"/>
+  <rect x="76" y="76" width="608" height="368" rx="28" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+  <rect x="116" y="132" width="188" height="108" rx="20" fill="#B7FF4A" stroke="#111111" stroke-width="3"/>
+  <rect x="334" y="132" width="280" height="36" rx="18" fill="#111111"/>
+  <rect x="334" y="186" width="190" height="18" rx="9" fill="#D4D4D4"/>
+  <rect x="116" y="278" width="504" height="114" rx="24" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+  <path d="M160 355L230 300L300 322L372 246L450 270L540 186" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="355" r="12" fill="#111111"/>
+  <circle cx="230" cy="300" r="12" fill="#111111"/>
+  <circle cx="300" cy="322" r="12" fill="#111111"/>
+  <circle cx="372" cy="246" r="12" fill="#111111"/>
+  <circle cx="450" cy="270" r="12" fill="#111111"/>
+  <circle cx="540" cy="186" r="12" fill="#B7FF4A" stroke="#111111" stroke-width="4"/>
+  <path d="M530 176L574 132" stroke="#111111" stroke-width="7" stroke-linecap="round"/>
+  <path d="M548 132H574V158" stroke="#111111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="140" y="198" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">GROWTH</text>
+</svg>
